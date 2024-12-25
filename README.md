@@ -1,6 +1,6 @@
-# Prediction of Demand for shared bikes
+# Bike Sharing Case Study
 
-> Outline a brief description of your project.
+> Prediction of Demand for shared bikes.
 
 
 ## Table of Contents
